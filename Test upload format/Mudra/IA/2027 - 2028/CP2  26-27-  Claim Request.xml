@@ -1,7 +1,7 @@
 <mudra-claims>
   <claim>
-    <custid>LACUST01</custid>
-    <acctno>IAAC01</acctno>
+    <custid>2627CR721</custid>
+    <acctno>2627CR721</acctno>
     <prncplamtonnpa>100000</prncplamtonnpa>
     <rcvryamt>0</rcvryamt>
     <ots>N</ots>
@@ -10,8 +10,8 @@
   </claim>
   
   <claim>
-    <custid>LACUST04</custid>
-    <acctno>IAAC04</acctno>
+    <custid>2627CR722</custid>
+    <acctno>2627CR722</acctno>
     <prncplamtonnpa>100000</prncplamtonnpa>
     <rcvryamt>0</rcvryamt>
     <ots>N</ots>
