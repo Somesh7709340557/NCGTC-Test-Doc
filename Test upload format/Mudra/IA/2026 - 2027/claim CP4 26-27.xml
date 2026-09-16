@@ -1,0 +1,52 @@
+<mudra-claims>
+  <claim>
+    <custid>SVR21004</custid>
+    <acctno>SVR21004</acctno>
+    <prncplamtonnpa>3000</prncplamtonnpa>
+    <rcvryamt>0</rcvryamt>
+    <ots>N</ots>
+  </claim>
+  
+  <claim>
+    <custid>SVR21005</custid>
+    <acctno>SVR21005</acctno>
+    <prncplamtonnpa>3000</prncplamtonnpa>
+    <rcvryamt>0</rcvryamt>
+    <ots>N</ots>
+  </claim>
+
+  <claim>
+    <custid>SVR21009</custid>
+    <acctno>SVR21009</acctno>
+    <prncplamtonnpa>3000</prncplamtonnpa>
+    <rcvryamt>0</rcvryamt>
+    <ots>N</ots>
+  </claim>
+  
+  <claim>
+    <custid>SVR21010</custid>
+    <acctno>SVR21010</acctno>
+    <prncplamtonnpa>3000</prncplamtonnpa>
+    <rcvryamt>0</rcvryamt>
+    <ots>N</ots>
+  </claim>
+
+
+  <claim>
+    <custid>SVR21014</custid>
+    <acctno>SVR21014</acctno>
+    <prncplamtonnpa>3000</prncplamtonnpa>
+    <rcvryamt>0</rcvryamt>
+    <ots>N</ots>
+  </claim>
+  
+  <claim>
+    <custid>SVR21015</custid>
+    <acctno>SVR21015</acctno>
+    <prncplamtonnpa>3000</prncplamtonnpa>
+    <rcvryamt>0</rcvryamt>
+    <ots>N</ots>
+  </claim>
+
+  
+</mudra-claims>

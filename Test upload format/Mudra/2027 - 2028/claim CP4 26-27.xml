@@ -1,0 +1,30 @@
+<mudra-claims>
+
+  <claim>
+    <custid>2728CR701</custid>
+    <acctno>2728CR701</acctno>
+    <prncplamtonnpa>15000</prncplamtonnpa>
+    <rcvryamt>1400</rcvryamt>
+    <ots>N</ots>
+  </claim>
+
+  
+ 
+    <claim>
+    <custid>2728CR710</custid>
+    <acctno>2728CR710</acctno>
+    <prncplamtonnpa>1500</prncplamtonnpa>
+    <rcvryamt>7100</rcvryamt>
+    <ots>N</ots>
+  </claim>
+
+    <claim>
+    <custid>2728CR711</custid>
+    <acctno>2728CR711</acctno>
+    <prncplamtonnpa>1500</prncplamtonnpa>
+    <rcvryamt>7100</rcvryamt>
+    <ots>N</ots>
+  </claim>
+
+  
+</mudra-claims>

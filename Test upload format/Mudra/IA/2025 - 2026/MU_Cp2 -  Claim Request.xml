@@ -1,0 +1,34 @@
+<mudra-claims>
+  <claim>
+    <custid>16DecQ102</custid>
+    <acctno>16DecQ102</acctno>
+    <prncplamtonnpa>100</prncplamtonnpa>
+    <rcvryamt>0</rcvryamt>
+    <ots>N</ots>
+  </claim>
+
+   <claim>
+    <custid>16DecQ201</custid>
+    <acctno>16DecQ201</acctno>
+    <prncplamtonnpa>100</prncplamtonnpa>
+    <rcvryamt>0</rcvryamt>
+    <ots>N</ots>
+  </claim>
+
+   <claim>
+    <custid>16DecQ202</custid>
+    <acctno>16DecQ202</acctno>
+    <prncplamtonnpa>100</prncplamtonnpa>
+    <rcvryamt>0</rcvryamt>
+    <ots>N</ots>
+  </claim>
+
+   <claim>
+    <custid>Q4252610</custid>
+    <acctno>Q4252610</acctno>
+    <prncplamtonnpa>100</prncplamtonnpa>
+    <rcvryamt>0</rcvryamt>
+    <ots>N</ots>
+  </claim>
+
+</mudra-claims>

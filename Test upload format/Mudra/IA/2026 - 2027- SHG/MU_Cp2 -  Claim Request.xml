@@ -1,0 +1,24 @@
+<mudra-claims>
+  <claim>
+    <custid>SHGQ2Ineli03</custid>
+    <acctno>SHGQ2Ineli03</acctno>
+    <prncplamtonnpa>1000001</prncplamtonnpa>
+    <rcvryamt>0</rcvryamt>
+    <ots>N</ots>
+    <UnrecoveredInterestAsOnDateOfNPA>1000</UnrecoveredInterestAsOnDateOfNPA>
+    <TotalOutstandingAmountAsOnDateOfNPA>0</TotalOutstandingAmountAsOnDateOfNPA>
+  </claim>
+
+   <claim>
+    <custid>SHGQ2Ineli04</custid>
+    <acctno>SHGQ2Ineli04</acctno>
+    <prncplamtonnpa>200000</prncplamtonnpa>
+    <rcvryamt>0</rcvryamt>
+    <ots>N</ots>
+    <UnrecoveredInterestAsOnDateOfNPA>1000</UnrecoveredInterestAsOnDateOfNPA>
+    <TotalOutstandingAmountAsOnDateOfNPA>10</TotalOutstandingAmountAsOnDateOfNPA>
+  </claim>
+
+
+
+</mudra-claims>

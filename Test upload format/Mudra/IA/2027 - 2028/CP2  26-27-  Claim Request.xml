@@ -1,0 +1,25 @@
+<mudra-claims>
+  <claim>
+    <custid>LACUST01</custid>
+    <acctno>IAAC01</acctno>
+    <prncplamtonnpa>100000</prncplamtonnpa>
+    <rcvryamt>0</rcvryamt>
+    <ots>N</ots>
+     <UnrecoveredInterestAsOnDateOfNPA>1000</UnrecoveredInterestAsOnDateOfNPA>
+    <TotalOutstandingAmountAsOnDateOfNPA>0</TotalOutstandingAmountAsOnDateOfNPA>
+  </claim>
+  
+  <claim>
+    <custid>LACUST04</custid>
+    <acctno>IAAC04</acctno>
+    <prncplamtonnpa>100000</prncplamtonnpa>
+    <rcvryamt>0</rcvryamt>
+    <ots>N</ots>
+     <UnrecoveredInterestAsOnDateOfNPA>1000</UnrecoveredInterestAsOnDateOfNPA>
+    <TotalOutstandingAmountAsOnDateOfNPA>0</TotalOutstandingAmountAsOnDateOfNPA>
+  </claim>
+
+
+
+
+</mudra-claims>

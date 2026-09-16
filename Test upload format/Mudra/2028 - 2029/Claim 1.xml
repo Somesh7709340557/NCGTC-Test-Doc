@@ -1,0 +1,34 @@
+<mudra-claims>
+<claim>
+ <custid>BiffRiskQ101</custid>
+ <acctno>BiffRiskQ101</acctno>
+ <prncplamtonnpa>100</prncplamtonnpa>
+ <rcvryamt>0</rcvryamt>
+ <ots>N</ots>
+ <UnrecoveredInterestAsOnDateOfNPA>200</UnrecoveredInterestAsOnDateOfNPA>
+ <TotalOutstandingAmountAsOnDateOfNPA>300</TotalOutstandingAmountAsOnDateOfNPA>
+</claim>
+
+<claim>
+ <custid>BiffRiskQ104</custid>
+ <acctno>BiffRiskQ104</acctno>
+ <prncplamtonnpa>200</prncplamtonnpa>
+ <rcvryamt>0</rcvryamt>
+ <ots>N</ots>
+ <UnrecoveredInterestAsOnDateOfNPA>3000</UnrecoveredInterestAsOnDateOfNPA>
+ <TotalOutstandingAmountAsOnDateOfNPA>100</TotalOutstandingAmountAsOnDateOfNPA>
+</claim>
+
+<claim>
+ <custid>BiffRiskQ106</custid>
+ <acctno>BiffRiskQ106</acctno>
+ <prncplamtonnpa>2000</prncplamtonnpa>
+ <rcvryamt>0</rcvryamt>
+ <ots>N</ots>
+ <UnrecoveredInterestAsOnDateOfNPA>3000</UnrecoveredInterestAsOnDateOfNPA>
+ <TotalOutstandingAmountAsOnDateOfNPA>12</TotalOutstandingAmountAsOnDateOfNPA>
+</claim>
+
+
+
+</mudra-claims>
