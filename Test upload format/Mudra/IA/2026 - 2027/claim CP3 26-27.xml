@@ -1,35 +1,47 @@
 <mudra-claims>
-  <claim>
-    <custid>SVR21004</custid>
-    <acctno>SVR21004</acctno>
-    <prncplamtonnpa>3000</prncplamtonnpa>
-    <rcvryamt>0</rcvryamt>
-    <ots>N</ots>
-  </claim>
-  
-  <claim>
-    <custid>SVR21005</custid>
-    <acctno>SVR21005</acctno>
-    <prncplamtonnpa>3000</prncplamtonnpa>
-    <rcvryamt>0</rcvryamt>
-    <ots>N</ots>
-  </claim>
 
   <claim>
-    <custid>SVR21009</custid>
-    <acctno>SVR21009</acctno>
-    <prncplamtonnpa>3000</prncplamtonnpa>
-    <rcvryamt>0</rcvryamt>
+     <custid>2627CR701</custid>
+ <acctno>2627CR703</acctno>
+    <prncplamtonnpa>15000</prncplamtonnpa>
+    <rcvryamt>1400</rcvryamt>
     <ots>N</ots>
+    <UnrecoveredInterestAsOnDateOfNPA>1000</UnrecoveredInterestAsOnDateOfNPA>
+<TotalOutstandingAmountAsOnDateOfNPA>0</TotalOutstandingAmountAsOnDateOfNPA>
   </claim>
   
   <claim>
-    <custid>SVR21010</custid>
-    <acctno>SVR21010</acctno>
-    <prncplamtonnpa>3000</prncplamtonnpa>
-    <rcvryamt>0</rcvryamt>
+   <custid>2627CR704</custid>
+ <acctno>2627CR704</acctno>
+    <prncplamtonnpa>100000</prncplamtonnpa>
+    <rcvryamt>12800</rcvryamt>
     <ots>N</ots>
+    <UnrecoveredInterestAsOnDateOfNPA>1000</UnrecoveredInterestAsOnDateOfNPA>
+<TotalOutstandingAmountAsOnDateOfNPA>0</TotalOutstandingAmountAsOnDateOfNPA>
   </claim>
+  
+    <claim>
+   <custid>2627CR718</custid>
+ <acctno>2627CR718</acctno>
+    <prncplamtonnpa>100000</prncplamtonnpa>
+    <rcvryamt>12800</rcvryamt>
+    <ots>N</ots>
+    <UnrecoveredInterestAsOnDateOfNPA>1000</UnrecoveredInterestAsOnDateOfNPA>
+<TotalOutstandingAmountAsOnDateOfNPA>0</TotalOutstandingAmountAsOnDateOfNPA>
+  </claim>
+  
+  
+    <claim>
+   <custid>2627CR705</custid>
+ <acctno>2627CR705</acctno>
+    <prncplamtonnpa>100000</prncplamtonnpa>
+    <rcvryamt>12800</rcvryamt>
+    <ots>N</ots>
+    <UnrecoveredInterestAsOnDateOfNPA>1000</UnrecoveredInterestAsOnDateOfNPA>
+<TotalOutstandingAmountAsOnDateOfNPA>0</TotalOutstandingAmountAsOnDateOfNPA>
+  </claim>
+  
+  
 
   
 </mudra-claims>
