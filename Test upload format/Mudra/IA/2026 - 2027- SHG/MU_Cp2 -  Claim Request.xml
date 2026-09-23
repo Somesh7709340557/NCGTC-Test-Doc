@@ -2,10 +2,10 @@
   <claim>
     <custid>SHG2627CR701</custid>
     <acctno>SHG2627CR701</acctno>
-    <prncplamtonnpa>1000001</prncplamtonnpa>
+    <prncplamtonnpa>100000</prncplamtonnpa>
     <rcvryamt>0</rcvryamt>
     <ots>N</ots>
-    <UnrecoveredInterestAsOnDateOfNPA>1000</UnrecoveredInterestAsOnDateOfNPA>
+    <UnrecoveredInterestAsOnDateOfNPA>100</UnrecoveredInterestAsOnDateOfNPA>
     <TotalOutstandingAmountAsOnDateOfNPA>0</TotalOutstandingAmountAsOnDateOfNPA>
   </claim>
 
@@ -19,6 +19,16 @@
     <TotalOutstandingAmountAsOnDateOfNPA>10</TotalOutstandingAmountAsOnDateOfNPA>
   </claim>
 
+
+  <claim>
+    <custid>SHG2627CR703</custid>
+    <acctno>SHG2627CR703</acctno>
+    <prncplamtonnpa>200000</prncplamtonnpa>
+    <rcvryamt>0</rcvryamt>
+    <ots>N</ots>
+    <UnrecoveredInterestAsOnDateOfNPA>1000</UnrecoveredInterestAsOnDateOfNPA>
+    <TotalOutstandingAmountAsOnDateOfNPA>10</TotalOutstandingAmountAsOnDateOfNPA>
+  </claim>
 
 
 </mudra-claims>
