@@ -1,0 +1,20 @@
+<mudra-claims>
+  <claim>
+    <custid>Q1sml009</custid>
+    <acctno>Q1sml009</acctno>
+    <prncplamtonnpa>1000</prncplamtonnpa>
+    <rcvryamt>0</rcvryamt>
+    <ots>N</ots>
+  </claim>
+
+
+   <claim>
+    <custid>Q1sml009</custid>
+    <acctno>Q1sml010</acctno>
+    <prncplamtonnpa>1000</prncplamtonnpa>
+    <rcvryamt>0</rcvryamt>
+    <ots>N</ots>
+  </claim>
+
+
+</mudra-claims>

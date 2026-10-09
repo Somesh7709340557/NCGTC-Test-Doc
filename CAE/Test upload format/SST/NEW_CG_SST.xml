@@ -1,0 +1,59 @@
+<startup-transaction-borrowers>
+  <borrowers>
+    <startupname>ZMAPRIL</startupname>
+    <prsntadd>Mumbai Maharashtra</prsntadd>
+    <prsnttwn>Mumbai</prsnttwn>
+    <prsntdist>519</prsntdist>
+    <prsntstate>27</prsntstate>
+    <prsntpin>400071</prsntpin>
+    <prsntemail>zomato@outlook.com</prsntemail>
+    <mobile>4000220504</mobile>
+    <phonenum/>
+    <pan>AQPPL2141H</pan>
+    <uadhaar>400000990504</uadhaar>
+    <gstnumber>23ABICS0504Q1ZM</gstnumber>
+    <gstdec>Y</gstdec>
+    <unitconst>2</unitconst>
+    <typeofindust>1</typeofindust>
+    <industnature>1</industnature>
+    <industsec>1</industsec>
+    <commonsector>101</commonsector>
+    <enttype>2</enttype>
+    <noofemp>50</noofemp>
+    <startuptype>0</startuptype>
+    <sbofstartup>Employment Generation</sbofstartup>
+    <chiefpromotor>MRZMA</chiefpromotor>
+    <emailpromotor>zm@gmail.com</emailpromotor>
+    <mobilepromotor>7894560504</mobilepromotor>
+    <panpromotor>AQPPL2141H</panpromotor>
+    <uadhaarpromotor>000020000504</uadhaarpromotor>
+    <genderpromotor>M</genderpromotor>
+    <relpromotor>4</relpromotor>
+    <scopromotor>4</scopromotor>
+    <turnoverlastfy>10000000</turnoverlastfy>
+    <fundtype>1</fundtype>
+    <loantype>1</loantype>
+    <custid>SST01</custid>
+    <acctno>SST01</acctno>
+    <sancamt>200000000</sancamt>
+    <sancdt>01-01-2025</sancdt>
+    <guaranteecover>200000000</guaranteecover>
+    <colatteralsecamt>0</colatteralsecamt>
+    <moraperiod>6</moraperiod>
+    <moraenddt>03-10-2027</moraenddt>
+    <tenure>12</tenure>
+    <enddt>03-10-2027</enddt>
+    <acctnpa>N</acctnpa>
+    <npadt/>
+    <startupbydpiit>Y</startupbydpiit>
+    <dpiitregnum>12898</dpiitregnum>
+    <pefundavailed>N</pefundavailed>
+    <pefundamt/>
+    <DtfLastDisbusement>01-08-2026</DtfLastDisbusement>
+    <ROI>3</ROI>
+    <ProjectCost>455</ProjectCost>
+  </borrowers>
+
+
+</startup-transaction-borrowers>
+

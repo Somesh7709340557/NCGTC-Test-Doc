@@ -1,0 +1,20 @@
+<mudra-claims>
+  <claim>
+    <custid>SVR2526002</custid>
+    <acctno>SVR2526002</acctno>
+    <prncplamtonnpa>1000000</prncplamtonnpa>
+    <rcvryamt>0</rcvryamt>
+    <ots>N</ots>
+  </claim>
+
+
+   <claim>
+    <custid>SVR2526003</custid>
+    <acctno>SVR2526003</acctno>
+    <prncplamtonnpa>2000000</prncplamtonnpa>
+    <rcvryamt>0</rcvryamt>
+    <ots>N</ots>
+  </claim>
+
+
+</mudra-claims>

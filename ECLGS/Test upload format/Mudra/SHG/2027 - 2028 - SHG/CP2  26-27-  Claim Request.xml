@@ -1,0 +1,23 @@
+<mudra-claims>
+  <claim>
+    <custid>SHGCust011</custid>
+    <acctno>SHGCust011</acctno>
+    <prncplamtonnpa>3000</prncplamtonnpa>
+    <rcvryamt>0</rcvryamt>
+    <ots>N</ots>
+    <UnrecoveredInterestAsOnDateOfNPA>1000</UnrecoveredInterestAsOnDateOfNPA>
+    <TotalOutstandingAmountAsOnDateOfNPA>100</TotalOutstandingAmountAsOnDateOfNPA>
+  </claim>
+  
+  <claim>
+    <custid>SHGCust012</custid>
+    <acctno>SHGCust012</acctno>
+    <prncplamtonnpa>3000</prncplamtonnpa>
+    <rcvryamt>0</rcvryamt>
+    <ots>N</ots>
+     <UnrecoveredInterestAsOnDateOfNPA>1000</UnrecoveredInterestAsOnDateOfNPA>
+    <TotalOutstandingAmountAsOnDateOfNPA>100</TotalOutstandingAmountAsOnDateOfNPA>
+  </claim>
+
+
+</mudra-claims>

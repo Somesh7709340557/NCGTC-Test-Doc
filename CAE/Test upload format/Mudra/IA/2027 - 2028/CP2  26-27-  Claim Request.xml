@@ -1,0 +1,25 @@
+<mudra-claims>
+  <claim>
+    <custid>2627CR721</custid>
+    <acctno>2627CR721</acctno>
+    <prncplamtonnpa>100000</prncplamtonnpa>
+    <rcvryamt>0</rcvryamt>
+    <ots>N</ots>
+     <UnrecoveredInterestAsOnDateOfNPA>1000</UnrecoveredInterestAsOnDateOfNPA>
+    <TotalOutstandingAmountAsOnDateOfNPA>0</TotalOutstandingAmountAsOnDateOfNPA>
+  </claim>
+  
+  <claim>
+    <custid>2627CR722</custid>
+    <acctno>2627CR722</acctno>
+    <prncplamtonnpa>100000</prncplamtonnpa>
+    <rcvryamt>0</rcvryamt>
+    <ots>N</ots>
+     <UnrecoveredInterestAsOnDateOfNPA>1000</UnrecoveredInterestAsOnDateOfNPA>
+    <TotalOutstandingAmountAsOnDateOfNPA>0</TotalOutstandingAmountAsOnDateOfNPA>
+  </claim>
+
+
+
+
+</mudra-claims>

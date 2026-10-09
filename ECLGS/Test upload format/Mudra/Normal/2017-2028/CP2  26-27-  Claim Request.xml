@@ -1,0 +1,19 @@
+<mudra-claims>
+  <claim>
+    <custid>Envv16</custid>
+    <acctno>Envv19</acctno>
+    <prncplamtonnpa>3000</prncplamtonnpa>
+    <rcvryamt>0</rcvryamt>
+    <ots>N</ots>
+  </claim>
+  
+  <claim>
+    <custid>Envv01</custid>
+    <acctno>Envv03</acctno>
+    <prncplamtonnpa>3000</prncplamtonnpa>
+    <rcvryamt>0</rcvryamt>
+    <ots>N</ots>
+  </claim>
+
+
+</mudra-claims>
