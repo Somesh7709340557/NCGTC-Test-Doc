@@ -1,34 +1,42 @@
 <mudra-claims>
   <claim>
-    <custid>16DecQ102</custid>
-    <acctno>16DecQ102</acctno>
-    <prncplamtonnpa>100</prncplamtonnpa>
+    <custid>CR13Q1252603</custid>
+    <acctno>CR13Q1252603</acctno>
+    <prncplamtonnpa>15000</prncplamtonnpa>
     <rcvryamt>0</rcvryamt>
     <ots>N</ots>
+	<UnrecoveredInterestAsOnDateOfNPA>200</UnrecoveredInterestAsOnDateOfNPA>
+<TotalOutstandingAmountAsOnDateOfNPA>300</TotalOutstandingAmountAsOnDateOfNPA>
   </claim>
 
    <claim>
-    <custid>16DecQ201</custid>
-    <acctno>16DecQ201</acctno>
-    <prncplamtonnpa>100</prncplamtonnpa>
-    <rcvryamt>0</rcvryamt>
+    <custid>CR13Q1252604</custid>
+    <acctno>CR13Q1252604</acctno>
+    <prncplamtonnpa>16000</prncplamtonnpa>
+    <rcvryamt>100</rcvryamt>
     <ots>N</ots>
+	<UnrecoveredInterestAsOnDateOfNPA>200</UnrecoveredInterestAsOnDateOfNPA>
+<TotalOutstandingAmountAsOnDateOfNPA>300</TotalOutstandingAmountAsOnDateOfNPA>
   </claim>
 
    <claim>
-    <custid>16DecQ202</custid>
-    <acctno>16DecQ202</acctno>
-    <prncplamtonnpa>100</prncplamtonnpa>
-    <rcvryamt>0</rcvryamt>
+    <custid>CR13Q1252605</custid>
+    <acctno>CR13Q1252605</acctno>
+    <prncplamtonnpa>17000</prncplamtonnpa>
+    <rcvryamt>1000</rcvryamt>
     <ots>N</ots>
+	<UnrecoveredInterestAsOnDateOfNPA>200</UnrecoveredInterestAsOnDateOfNPA>
+<TotalOutstandingAmountAsOnDateOfNPA>300</TotalOutstandingAmountAsOnDateOfNPA>
   </claim>
 
    <claim>
-    <custid>Q4252610</custid>
-    <acctno>Q4252610</acctno>
-    <prncplamtonnpa>100</prncplamtonnpa>
-    <rcvryamt>0</rcvryamt>
+    <custid>CR13Q1252606</custid>
+    <acctno>CR13Q1252606</acctno>
+    <prncplamtonnpa>18000</prncplamtonnpa>
+    <rcvryamt>1100</rcvryamt>
     <ots>N</ots>
+	<UnrecoveredInterestAsOnDateOfNPA>200</UnrecoveredInterestAsOnDateOfNPA>
+<TotalOutstandingAmountAsOnDateOfNPA>300</TotalOutstandingAmountAsOnDateOfNPA>
   </claim>
 
 </mudra-claims>

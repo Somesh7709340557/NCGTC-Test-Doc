@@ -9,11 +9,13 @@ https://examplefile.com/
 9  - Not done as per requiremnt - Dev team Need business discussion
 10 - Done - raised bugs + Need some clairifcations
 11 - Unable to generate scenario
-12 - Not working as expected
-13 - QA in progress
-14 - QA pending
-15  - 
+12 - Not working as expected - anirudha will check and confirm with rahul sir
+13 - All development is not done , anirudha will check and confirm for report part
+14 - QA in progress
+15 - QA pending 
 
 
 MUDNEWM20282029SHG
+
+If bill is not generated in Q2 and added dis details , then should we need to add those record in billing of CP period or not
 
