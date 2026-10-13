@@ -1,0 +1,83 @@
+<mudra-claims>
+  <claim>
+    <custid>CR13Q1252603</custid>
+    <acctno>CR13Q1252603</acctno>
+    <prncplamtonnpa>13000</prncplamtonnpa>
+    <rcvryamt>100</rcvryamt>
+    <ots>N</ots>
+	<UnrecoveredInterestAsOnDateOfNPA>200</UnrecoveredInterestAsOnDateOfNPA>
+<TotalOutstandingAmountAsOnDateOfNPA>300</TotalOutstandingAmountAsOnDateOfNPA>
+  </claim>
+
+   <claim>
+    <custid>CR13Q1252604</custid>
+    <acctno>CR13Q1252604</acctno>
+    <prncplamtonnpa>16000</prncplamtonnpa>
+    <rcvryamt>1000</rcvryamt>
+    <ots>N</ots>
+	<UnrecoveredInterestAsOnDateOfNPA>200</UnrecoveredInterestAsOnDateOfNPA>
+<TotalOutstandingAmountAsOnDateOfNPA>300</TotalOutstandingAmountAsOnDateOfNPA>
+  </claim>
+
+   <claim>
+    <custid>CR13Q1252605</custid>
+    <acctno>CR13Q1252605</acctno>
+    <prncplamtonnpa>17000</prncplamtonnpa>
+    <rcvryamt>10000</rcvryamt>
+    <ots>N</ots>
+	<UnrecoveredInterestAsOnDateOfNPA>200</UnrecoveredInterestAsOnDateOfNPA>
+<TotalOutstandingAmountAsOnDateOfNPA>300</TotalOutstandingAmountAsOnDateOfNPA>
+  </claim>
+
+   <claim>
+    <custid>CR13Q1252606</custid>
+    <acctno>CR13Q1252606</acctno>
+    <prncplamtonnpa>18000</prncplamtonnpa>
+    <rcvryamt>11010</rcvryamt>
+    <ots>N</ots>
+	<UnrecoveredInterestAsOnDateOfNPA>200</UnrecoveredInterestAsOnDateOfNPA>
+<TotalOutstandingAmountAsOnDateOfNPA>300</TotalOutstandingAmountAsOnDateOfNPA>
+  </claim>
+
+   <claim>
+    <custid>CR13Q1252607</custid>
+    <acctno>CR13Q1252607</acctno>
+    <prncplamtonnpa>100000</prncplamtonnpa>
+    <rcvryamt>12000</rcvryamt>
+    <ots>N</ots>
+	<UnrecoveredInterestAsOnDateOfNPA>200</UnrecoveredInterestAsOnDateOfNPA>
+<TotalOutstandingAmountAsOnDateOfNPA>300</TotalOutstandingAmountAsOnDateOfNPA>
+  </claim>
+  
+     <claim>
+    <custid>CR13Q1252608</custid>
+    <acctno>CR13Q1252608</acctno>
+    <prncplamtonnpa>100001</prncplamtonnpa>
+    <rcvryamt>13000</rcvryamt>
+    <ots>N</ots>
+	<UnrecoveredInterestAsOnDateOfNPA>200</UnrecoveredInterestAsOnDateOfNPA>
+<TotalOutstandingAmountAsOnDateOfNPA>300</TotalOutstandingAmountAsOnDateOfNPA>
+  </claim>
+  
+       <claim>
+    <custid>CR13Q1252609</custid>
+    <acctno>CR13Q1252609</acctno>
+    <prncplamtonnpa>210000</prncplamtonnpa>
+    <rcvryamt>140000</rcvryamt>
+    <ots>N</ots>
+	<UnrecoveredInterestAsOnDateOfNPA>200</UnrecoveredInterestAsOnDateOfNPA>
+<TotalOutstandingAmountAsOnDateOfNPA>300</TotalOutstandingAmountAsOnDateOfNPA>
+  </claim>
+  
+       <claim>
+    <custid>CR13Q1252610</custid>
+    <acctno>CR13Q1252610</acctno>
+    <prncplamtonnpa>100000</prncplamtonnpa>
+    <rcvryamt>90000</rcvryamt>
+    <ots>N</ots>
+	<UnrecoveredInterestAsOnDateOfNPA>200</UnrecoveredInterestAsOnDateOfNPA>
+<TotalOutstandingAmountAsOnDateOfNPA>300</TotalOutstandingAmountAsOnDateOfNPA>
+  </claim>
+
+
+</mudra-claims>

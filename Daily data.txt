@@ -5,14 +5,18 @@ https://examplefile.com/
 
 
 1  - Done
-8  - Already on prod
-9  - Not done as per requiremnt - Dev team Need business discussion
+5  - QA Pending assinged on 13 oct
+9  - Not done as per requiremnt - Dev team Need business discussion - will check as per current development and confirm
 10 - Done - raised bugs + Need some clairifcations
 11 - Unable to generate scenario
 12 - Not working as expected - anirudha will check and confirm with rahul sir
 13 - All development is not done , anirudha will check and confirm for report part
-14 - QA in progress
-15 - QA pending 
+14 - Testing is done - (found other issues + need clarification for 1 point)
+15 - QA pending
+16 - Partially dev done (new CG)
+
+
+
 
 
 MUDNEWM20282029SHG
