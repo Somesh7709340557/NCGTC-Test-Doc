@@ -1,0 +1,34 @@
+<mudra-claims>
+<claim>
+ <custid>CR01Q1011</custid>
+ <acctno>Q2CR15011</acctno>
+ <prncplamtonnpa>100000</prncplamtonnpa>
+ <rcvryamt>1110</rcvryamt>
+ <ots>N</ots>
+ <UnrecoveredInterestAsOnDateOfNPA>200</UnrecoveredInterestAsOnDateOfNPA>
+ <TotalOutstandingAmountAsOnDateOfNPA>300</TotalOutstandingAmountAsOnDateOfNPA>
+</claim>
+
+<claim>
+ <custid>CR01Q1016</custid>
+ <acctno>Q2CR15016</acctno>
+ <prncplamtonnpa>100000</prncplamtonnpa>
+ <rcvryamt>23440</rcvryamt>
+ <ots>N</ots>
+ <UnrecoveredInterestAsOnDateOfNPA>3000</UnrecoveredInterestAsOnDateOfNPA>
+ <TotalOutstandingAmountAsOnDateOfNPA>100</TotalOutstandingAmountAsOnDateOfNPA>
+</claim>
+
+<claim>
+ <custid>CR01Q105</custid>
+ <acctno>XQ2CR15011</acctno>
+ <prncplamtonnpa>100000</prncplamtonnpa>
+ <rcvryamt>23423</rcvryamt>
+ <ots>N</ots>
+ <UnrecoveredInterestAsOnDateOfNPA>3000</UnrecoveredInterestAsOnDateOfNPA>
+ <TotalOutstandingAmountAsOnDateOfNPA>12</TotalOutstandingAmountAsOnDateOfNPA>
+</claim>
+
+
+
+</mudra-claims>

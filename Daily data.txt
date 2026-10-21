@@ -4,22 +4,51 @@ Dummy PDF
 https://examplefile.com/
 
 
-1  - Done
-5  - QA Pending assinged on 13 oct
-9  - Not done as per requiremnt - Dev team Need business discussion - will check as per current development and confirm
-10 - Done - raised bugs + Need some clairifcations
-11 - Unable to generate scenario
-12 - Not working as expected - anirudha will check and confirm with rahul sir
-13 - All development is not done , anirudha will check and confirm for report part
-14 - Testing is done - (found other issues + need clarification for 1 point)
-15 - QA pending
-16 - Partially dev done (new CG)
+1  - Done
+- Unable to replace the file if the request is rejected by the NCGTC approver --> OK as per existing functinality ---> Need to discuss with business
+
+5  - Raised bugs to anirudha
+- File uploaded by name is not visile on input file name section --> Pending bug fix
+- Able to upload statutary certificate by other user under claim managment ---> Need to confirm with business
+- Able to approved File uploaded by other MLI maker  ---> Need to confirm with business
+
+
+9  - Raised bugs - blocker
+- Regeneration option is not given on portfolio transition page
+- Unable to regenerate final bill post deletion
+- Extension of exprity date --> not updating ex date on SOE also need to confirm for how many days expiry date is extended
+
+
+10 - Done - raised bugs + need some clarifications
+- Unable to verify  bank mandate flow for other schemes as on 16 server only mudra is mapped with all MLI even after Other schemes already present for that MLI - 16 server issue
+- There is no filter option for the scheme name, also for other fields  --->Need to confirm with business
+
+
+11 - done
+
+12 - Done
+
+13 - Raised bugs - blocker
+- MIS report is not working once resolve will check till cp7
+
+
+14 - Done
+
+15 - done
+- Considering sanction amount only for migrated account ---> Need to confirm with business
+
+
+Other Bugs 
+- Unable to upload  Statutory Certificate at MLI side for final claim
+- Showing dupplicate record in validated file - on reuploading file showing correct
+- mismatch in tentetive bill and final bill (some claimed record are missing in final bill)
+- Loan accounts that are marked as  NPA in CP4 and bills generated are not migrated
+- Considering sum of sanction amount if same file / account uploaded by other user and it is only at validated / error stage
 
 
 
-
-
-MUDNEWM20282029SHG
-
+Need to discuss
 If bill is not generated in Q2 and added dis details , then should we need to add those record in billing of CP period or not
+
+
 

@@ -1,0 +1,30 @@
+<mudra-recoverys>
+	<recovery>
+		<acctno>BiffRiskQ101</acctno>	
+		<custid>BiffRiskQ101</custid>
+		<rcvryamt>100</rcvryamt>
+		<dtofrcvry>30-09-2032</dtofrcvry>
+		<legalcosts>10</legalcosts>
+	</recovery>
+
+		<recovery>
+		<acctno>BiffRiskQ104</acctno>	
+		<custid>BiffRiskQ104</custid>
+		<rcvryamt>1000</rcvryamt>
+		<dtofrcvry>30-09-2032</dtofrcvry>
+		<legalcosts>20</legalcosts>
+	</recovery>
+
+
+		<recovery>
+		<acctno>BiffRiskQ106</acctno>	
+		<custid>BiffRiskQ106</custid>
+		<rcvryamt>200</rcvryamt>
+		<dtofrcvry>29-09-2032</dtofrcvry>
+		<legalcosts>30</legalcosts>
+	</recovery>
+
+
+
+
+</mudra-recoverys>
