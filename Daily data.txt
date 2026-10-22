@@ -1,4 +1,5 @@
 Test
+24979
 
 Dummy PDF
 https://examplefile.com/
@@ -7,15 +8,15 @@ https://examplefile.com/
 1  - Done
 - Unable to replace the file if the request is rejected by the NCGTC approver --> OK as per existing functinality ---> Need to discuss with business
 
-5  - Raised bugs to anirudha
+5  - Done
 - File uploaded by name is not visile on input file name section --> Pending bug fix
 - Able to upload statutary certificate by other user under claim managment ---> Need to confirm with business
 - Able to approved File uploaded by other MLI maker  ---> Need to confirm with business
 
+7 - Blocker
 
-9  - Raised bugs - blocker
+9  - Done
 - Regeneration option is not given on portfolio transition page
-- Unable to regenerate final bill post deletion
 - Extension of exprity date --> not updating ex date on SOE also need to confirm for how many days expiry date is extended
 
 
@@ -28,7 +29,7 @@ https://examplefile.com/
 
 12 - Done
 
-13 - Raised bugs - blocker
+13 - Done
 - MIS report is not working once resolve will check till cp7
 
 
@@ -36,6 +37,7 @@ https://examplefile.com/
 
 15 - done
 - Considering sanction amount only for migrated account ---> Need to confirm with business
+
 
 
 Other Bugs 
@@ -49,6 +51,12 @@ Other Bugs
 
 Need to discuss
 If bill is not generated in Q2 and added dis details , then should we need to add those record in billing of CP period or not
+
+28-29  b 
+29-30   1
+30-31  2
+31-32   3
+32-33   4
 
 
 
