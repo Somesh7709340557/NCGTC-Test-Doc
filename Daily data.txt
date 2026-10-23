@@ -58,5 +58,49 @@ If bill is not generated in Q2 and added dis details , then should we need to ad
 31-32   3
 32-33   4
 
+Mudra -API
+23-10-2026
+- Review Of BRD 11.20AM to
 
 
+1 In BRD mentioned as MLI checker has same control as previos , but as per requiremnt valid data received from MLI maker will directly process ( no invoilvment of NCGTC maker , checker , MLI checker) 
+https://prnt.sc/wGgN5xS2kPyu
+
+Module 1 - Authontication of API (encryption / description)
+- Data should be pushed with valid user only
+
+Module 2 — NCGTC Admin configuration
+API/Excel mode, enable/disable, configuration persistence, and access restrictions.
+
+
+Module 3 — New CG API request and response
+Valid JSON, missing fields, invalid data types, malformed payloads, authentication, and response schema.
+
+Module 4 — Field-level and business validations
+Existing Mudra rules, code masters, date validations, Tarun Plus eligibility, and effective-date conditions.
+
+Module 5 - Data visibility
+- Data pushed by MLI maker will visible at input file managment in valid / invalid section
+- Data pushed by MLI maker will visible at Home page to ncgtc users
+- Only MLI maker from resepctive MLI should able to see pushed data ( MLI users from SBI should able to check data if data pushed by SBI MLI maker , not to other MLI)
+
+
+Module 6 — Processing and data persistence
+TempValidation, TempValidationError, LoanApplication, CGPAN generation, File Reference ID, duplicate handling and audit history.
+
+Module 7 — CG fee calculation and quarterly billing
+Tentative bill consolidation, repeated submissions, previous-quarter updates, final bill, closed accounts, and tax calculations.
+
+Module 8 - Switching of MLI from Json to 
+- Ex 1 uploaded new CG via json then admin switched to excel , check whether MLI maker able to upload data via excel
+
+Module 9 — Security, concurrency and regression
+Multiple makers, retry handling, data isolation, API/Excel access control, and regression of the existing Excel-based Mudra process.
+
+
+
+
+Claim Carry Forward Amount For Next FY (31)
+
+Auto-calc. If 29<23 then 23-29
+else 29
