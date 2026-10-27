@@ -5,15 +5,21 @@ Dummy PDF
 https://examplefile.com/
 
 
+1 Renamed as totalfrstdisamt instead of Total Loan Disbursed Amount  https://prnt.sc/qoWpbK5REBWA
+2 In valid invalid file showing old field name as LoanAmountFirstDisbursement   https://prnt.sc/JKeuXNI53S-U
+
+
+
+
 1  - Done
 - Unable to replace the file if the request is rejected by the NCGTC approver --> OK as per existing functinality ---> Need to discuss with business
 
 5  - Done
-- File uploaded by name is not visile on input file name section --> Pending bug fix
-- Able to upload statutary certificate by other user under claim managment ---> Need to confirm with business
-- Able to approved File uploaded by other MLI maker  ---> Need to confirm with business
+- Able to upload statutary certificate by other user under claim managment ---> provide access to both users
+Generate Payment UTR Updates
 
-7 - Blocker
+
+7 - 
 
 9  - Done
 - Regeneration option is not given on portfolio transition page
@@ -41,16 +47,17 @@ https://examplefile.com/
 
 
 Other Bugs 
-- Unable to upload  Statutory Certificate at MLI side for final claim
-- Showing dupplicate record in validated file - on reuploading file showing correct
-- mismatch in tentetive bill and final bill (some claimed record are missing in final bill)
-- Loan accounts that are marked as  NPA in CP4 and bills generated are not migrated
-- Considering sum of sanction amount if same file / account uploaded by other user and it is only at validated / error stage
+- Showing dupplicate record in validated file - on reuploading file showing correct --> SP issue
+- mismatch in tentetive bill and final bill (some claimed record are missing in final bill)  --> Need to confirm with business
+- Loan accounts that are marked as  NPA in CP4 and bills generated are not migrated ---> was made change only for perticular ticket
+- Considering sum of sanction amount if same file / account uploaded by other user and it is only at validated / error stage ---> This is know issue to business
 
 
 
 Need to discuss
 If bill is not generated in Q2 and added dis details , then should we need to add those record in billing of CP period or not
+
+
 
 28-29  b 
 29-30   1
@@ -104,3 +111,6 @@ Claim Carry Forward Amount For Next FY (31)
 
 Auto-calc. If 29<23 then 23-29
 else 29
+
+
+https://default28ce49c59097414fbdb63aae59a90b.b1.environment.api.powerplatform.com:443/powerautomate/automations/direct/cu/22/workflows/b18b6bd61e3a4bedb51eac23da51d13f/triggers/manual/paths/invoke?api-version=1&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=cV8IuI0wMWzhU08J9TkF8C4fKw0u9qoNN0--Hh0D8M4
