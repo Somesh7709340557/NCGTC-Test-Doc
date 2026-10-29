@@ -1,12 +1,30 @@
-Test
-24979
 
 Dummy PDF
 https://examplefile.com/
 
 
-1 Renamed as totalfrstdisamt instead of Total Loan Disbursed Amount  https://prnt.sc/qoWpbK5REBWA
-2 In valid invalid file showing old field name as LoanAmountFirstDisbursement   https://prnt.sc/JKeuXNI53S-U
+1 Renamed as totalfrstdisamt instead of Total Loan Disbursed Amount -- Fixed
+2 In valid invalid file showing old field name as LoanAmountFirstDisbursement - Fixed
+3 Disbursement amount on view CG is not consistent with Input file  ---> Pending
+4 Blank details on view CG page --> Pending  
+5 Unable to upload Update CG and new CG ---> Fixed
+6 Error messages are not updated - First disbursement loan amount is greater than Sanctioned Amount  , frstdisamt is mandatory , frstdisamt has invalid data---> Pending
+7 Unable to download CG cover - to check disbursement column ---> Fixed
+8 There is impact in Update CG  due to  field rename in new CG
+9 All
+
+
+(need business confirmation)
+1 Field rename changes are not done in
+- MIS report
+- Date of first dist 
+
+2 In IT note for SHG Renewal exsting % is given as 0.25%, Actually but it is 0.5% 
+
+
+
+TotalLoanDisbursedAmount
+
 
 
 
